@@ -1,1 +1,2 @@
 # ReceiptScannerManagement
+## Scan Receipt

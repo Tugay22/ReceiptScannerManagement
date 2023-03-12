@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jn7fGCHpUaGXM6D5h1SY2uLxZwvTWwzmUgy/Lpq6uec=",
+  "Source": "ReceiptScannerManagement",
+  "BasePath": "_content/ReceiptScannerManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
